@@ -8,8 +8,8 @@ h1{
     font-size: 50 px;
 }
 .itens{
-    background-color: rgb(240, 52, 193);
+    background-color: rgba(240, 52, 193, 0.466);
     font-size: 30px;
-    color: rgb(146, 121, 170);
+    color: rgba(146, 121, 170, 0.534);
     text-align: center;
 }
