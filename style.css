@@ -9,4 +9,7 @@ h1{
 }
 .itens{
     background-color: rgb(240, 52, 193);
+    font-size: 30px;
+    color: rgb(146, 121, 170);
+    text-align: center;
 }
