@@ -13,3 +13,76 @@ h1{
     color: rgba(146, 121, 170, 0.534);
     text-align: center;
 }
+body {
+    background-color: white;
+}
+
+header{
+    padding: 20px 0;
+}
+
+.teste {
+    height: 200px;
+    width: 200px;
+}
+
+.caixa-nav{
+    position: relative;
+    width: 1080px;
+    margin: 0 auto;
+}
+
+nav {
+    display: inline-block;
+    position: absolute;
+    right: 70px;
+    top: 65px;
+}
+
+nav li {
+    display: inline;
+    margin: 5px;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: blue;
+    font-weight: bold;
+    font-size: 15px;
+    text-decoration: none;
+}
+
+#logo{
+    
+}
+
+.texto-principal {
+    margin-right: 20%; 
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+h2 {
+    color: #483D8B;
+}
+
+p {
+    color:  #5F9EA0;
+
+}
+
+#imagem-principal {
+    width: 10%;
+    margin-left: 80%;
+    border: 5px dotted salmon;
+    float: left;
+    position: absolute;
+}
+
+.itens {
+	color:  #5F9EA0;
+	text-decoration: underline;
+}
